@@ -9,9 +9,8 @@ Hi, Welcome to my Github. My name is Yeon-jun, Cho from South Korea. I am majori
 - https://www.notion.so/Android-65d20e89204646cc834d82f5ebc4f8b2
 
 
-
-####🔭 I'm interested in...
-
+#🔭 I'm interested in...
+-------------------------
 Software Engineering
 - Computer Science
 - Design Pattern, Algorithm
