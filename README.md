@@ -1,4 +1,4 @@
-Cho Yeon-jun @ChoYeonJun
+###Cho Yeon-jun @ChoYeonJun
 Hi, Welcome to my Github. My name is Yeon-jun, Cho from South Korea. I am majoring in Software Engineering at Jeonbuk National University in South Korea. I'm just started self studying Software Engineering Patterns and Algorithms. You can find my studying progress on the below link
 
 repl.it/@ChoYeonJun
@@ -7,7 +7,7 @@ https://www.notion.so/Android-65d20e89204646cc834d82f5ebc4f8b2
 
 
 
-🔭 I'm interested in...
+####🔭 I'm interested in...
 
 Software Engineering
 Computer Science
@@ -15,8 +15,6 @@ Design Pattern, Algorithm
 Android / Java / Kotlin
 Firebase
 
-📫 How to reach me
-Gmail Badge
 <!---
 ChoYeonJun/ChoYeonJun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
