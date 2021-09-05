@@ -13,7 +13,7 @@ Hi, Welcome to my Github. My name is Yeon-jun, Cho from South Korea. I am majori
 -------------------------
 - Software Engineering
 - Computer Science
-- Design Pattern/ Algorithm
+- Design Pattern / Algorithm
 - Android / Java / Kotlin
 - Firebase
 
