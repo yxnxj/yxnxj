@@ -5,8 +5,7 @@ Hi, Welcome to my Github. My name is Yeon-jun, Cho from South Korea. I am majori
 
 
 - https://repl.it/@ChoYeonJun
-- https://www.notion.so/7de891c5cc8844db8d3aebcd2cd2e014?v=7c9cfcf50aba404191954386a983513a
-- https://www.notion.so/Android-65d20e89204646cc834d82f5ebc4f8b2
+- https://jun-android.tistory.com/
 
 
 🔭 I'm interested in...
