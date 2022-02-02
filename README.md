@@ -14,7 +14,7 @@ Hi, Welcome to my Github. My name is Yeon-jun, Cho from South Korea. I am majori
 - Computer Science
 - Design Pattern / Algorithm
 - Android / Java / Kotlin
-- Firebase
+- Firebase / Spring
 
 <!---
 ChoYeonJun/ChoYeonJun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
