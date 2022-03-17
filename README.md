@@ -13,8 +13,14 @@ Hi, Welcome to my Github. My name is Yeon-jun, Cho from South Korea. I am majori
 - Software Engineering
 - Computer Science
 - Design Pattern / Algorithm
-- Android / Java / Kotlin
-- Firebase / Spring
+
+
+ <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+ 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+  
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
 
 <!---
 ChoYeonJun/ChoYeonJun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
