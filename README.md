@@ -5,7 +5,7 @@ Hi, welcome to my Github. My name is Yeon-jun, Cho from South Korea. I major in 
 
 
 - https://repl.it/@ChoYeonJun
-- https://jun-android.tistory.com/
+- https://yeonjun.dev
 
 
 🔭 I'm interested in...
