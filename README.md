@@ -1,4 +1,4 @@
-Cho Yeon-jun @ChoYeonJun
+Cho Yeon-jun @yxnxj
 ------------------------
 
 Hi, welcome to my Github. My name is Yeon-jun, Cho from South Korea. I major in Software Engineering at Jeonbuk National University in South Korea. I've just started self studying Software Engineering Patterns and Algorithms. You can check my studying progress on the below link
