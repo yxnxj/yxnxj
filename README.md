@@ -50,6 +50,6 @@ You can click the Preview link to take a look at your changes.
 -------------------------
 
 <a  href="https://www.instagram.com/yxxn_nxj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a  href="https://yeonjun.dev/"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a  href="https://skitter-cathedral-fc6.notion.site/Yeonjun-Cho-65d20e89204646cc834d82f5ebc4f8b2?pvs=4"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="mailto:micayel1219@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
